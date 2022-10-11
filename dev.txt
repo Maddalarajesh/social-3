@@ -1,2 +1,1 @@
-this is a demo class
-from tommorow
+this is a day
